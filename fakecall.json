@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "bc65272e2693a13a",
+            "max_int": "42fc448af64399f4",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Spy x Family",
+            "photo": "https://i.postimg.cc/d1jg52t2/4cb6750f12c1d64be5ca9626f59341b9.jpg",
+            "voice": "https://ringy9.github.io/Spy-x-Family/voice.mp4",
+            "video": "https://ringy9.github.io/Spy-x-Family/video3.mp4",
+            "stories": [
+               "https://i.postimg.cc/CKD3qy36/00d29c86ed3e8525fae33d120ba75f2e.jpg",
+"https://i.postimg.cc/0Ng3xWzG/388f28d1317f165d6c39ba2c728922fc.jpg",
+"https://i.postimg.cc/T2QZmJsG/3bb231527b4241db8337a37e8e1918cc.jpg",
+"https://i.postimg.cc/4dgrvLZ4/4beaa4c06b82739b242a942d1cc03e21.jpg",
+"https://i.postimg.cc/d1jg52t2/4cb6750f12c1d64be5ca9626f59341b9.jpg",
+"https://i.postimg.cc/fRSFGnRT/54f5ae9e206c20dec0046637ffb05ef9.jpg",
+"https://i.postimg.cc/L5ywpmPh/6f1e669c6600143b3e20f1616af55c76.jpg",
+"https://i.postimg.cc/3JRzZDMG/7e1ca21e3529358cd182fb158601d5dc.jpg",
+"https://i.postimg.cc/HshRvsHh/98e3a8ee8277795cb4b8b3693cf6319d.jpg",
+"https://i.postimg.cc/j5ckHRZv/Anime-SPY-X-FAMILY-A-Family-Anything-But-Ordinary.jpg",
+"https://i.postimg.cc/1XR228fL/ee012949a9538c6f16ae7bdd8c37c8d1.jpg",
+"https://i.postimg.cc/43z036cD/efafeda0d03ee7c038f802c140eaf134.jpg",
+"https://i.postimg.cc/FRNBkYg7/ff0cad79ae294fc81e2f5227520541cb.jpg"
+            ],
+            "wallpapers": [
+              "https://i.postimg.cc/CKD3qy36/00d29c86ed3e8525fae33d120ba75f2e.jpg",
+"https://i.postimg.cc/0Ng3xWzG/388f28d1317f165d6c39ba2c728922fc.jpg",
+"https://i.postimg.cc/T2QZmJsG/3bb231527b4241db8337a37e8e1918cc.jpg",
+"https://i.postimg.cc/4dgrvLZ4/4beaa4c06b82739b242a942d1cc03e21.jpg",
+"https://i.postimg.cc/d1jg52t2/4cb6750f12c1d64be5ca9626f59341b9.jpg",
+"https://i.postimg.cc/fRSFGnRT/54f5ae9e206c20dec0046637ffb05ef9.jpg",
+"https://i.postimg.cc/L5ywpmPh/6f1e669c6600143b3e20f1616af55c76.jpg",
+"https://i.postimg.cc/3JRzZDMG/7e1ca21e3529358cd182fb158601d5dc.jpg",
+"https://i.postimg.cc/HshRvsHh/98e3a8ee8277795cb4b8b3693cf6319d.jpg",
+"https://i.postimg.cc/j5ckHRZv/Anime-SPY-X-FAMILY-A-Family-Anything-But-Ordinary.jpg",
+"https://i.postimg.cc/1XR228fL/ee012949a9538c6f16ae7bdd8c37c8d1.jpg",
+"https://i.postimg.cc/43z036cD/efafeda0d03ee7c038f802c140eaf134.jpg",
+"https://i.postimg.cc/FRNBkYg7/ff0cad79ae294fc81e2f5227520541cb.jpg"
+            ]
+          
+        }
+    ]
+}
